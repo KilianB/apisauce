@@ -3,5 +3,5 @@
 .jsdoc.json
 gulpfile.js
 docs/
-lib/
+# lib/
 test/
